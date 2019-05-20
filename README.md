@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/matthewpothier/myPipelineJavaSample/_apis/build/status/mjpothie.pipelines-java?branchName=master)](https://dev.azure.com/matthewpothier/myPipelineJavaSample/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
